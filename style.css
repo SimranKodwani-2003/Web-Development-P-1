@@ -1,0 +1,20 @@
+body {
+    background-color: #6BDBC1; /* Use color picker or cooler */
+}
+
+button {
+    background-color: rgba(12, 190, 230, 0.582);
+    color: rgb(26, 15, 15);
+}
+
+#f {
+    color: rgb(3, 87, 41);
+}
+
+#t{
+    color: rgb(217, 0, 255);
+}
+
+.ht{
+    color: rgb(42, 36, 37);
+}
